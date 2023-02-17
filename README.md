@@ -59,8 +59,6 @@ npm run del
 
 ## 💻 Developer
 
-💡 **Shin**
-
 - ***Github: [@Dev_Span](https://github.com/Dev-Span)***
 
 
@@ -74,5 +72,9 @@ npm run del
 **Copyright © 2022 [Dev_Span](https://github.com/Dev-Span).**
 
 ***This project is [MIT](https://github.com/Dev-Span/Slash-Command-Deleter/blob/main/LICENSE.md) Licensed, You can freely use this code, modify it, or change some things, but PLEASE Please please include my this github repository as your credit.***
+
+# 👀 Credits
+
+- ***Github: [@Shineurysm](https://github.com/Shineurysm)***
 
 ---
