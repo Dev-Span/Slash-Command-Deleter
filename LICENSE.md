@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Dev_Span
+Copyright (c) 2023 Dev_Span
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
