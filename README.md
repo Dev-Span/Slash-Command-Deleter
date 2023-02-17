@@ -14,8 +14,8 @@
 ---
 
 # 👓 Preview
-![Preview](https://i.imgur.com/xI5R6A6.png)
-![Second-Preview](https://imgur.com/4iY24dz.png)
+![Preview](https://raw.githubusercontent.com/Dev-Span/Slash-Command-Deleter/main/src.readme/1.png)
+![Second-Preview](https://raw.githubusercontent.com/Dev-Span/Slash-Command-Deleter/main/src.readme/2.png)
 
 # 📃 About
 
@@ -69,7 +69,7 @@ npm run del
 
 ## 📝 License
 
-**Copyright © 2022 [Dev_Span](https://github.com/Dev-Span).**
+**Copyright © 2023 [Dev_Span](https://github.com/Dev-Span).**
 
 ***This project is [MIT](https://github.com/Dev-Span/Slash-Command-Deleter/blob/main/LICENSE.md) Licensed, You can freely use this code, modify it, or change some things, but PLEASE Please please include my this github repository as your credit.***
 
